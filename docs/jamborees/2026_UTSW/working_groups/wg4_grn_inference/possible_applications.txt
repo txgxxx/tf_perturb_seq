@@ -1,0 +1,20 @@
+Possible applications (TF-> enh -> gene):
+Statistics
+	conserved/unique edges across lineages
+	TF hierarchies/topologies across lineages
+	Motif occurrences
+	Network properties e.g. small world properties, degrees, centrality, clustering coefficient etc.
+Pan-lineage TFs
+	Network structure across lineages
+	Do networks/regulons vary across lineages
+	Disease associations e.g. syndromes across lineages
+	GRN-based community detection
+	Different enhancers to same TF or vice versa
+Cell-type unique TFs
+Good example of GWAS SNP that lines up with TF->E>G;
+TF co-regulation
+	TF orthologs
+	Common regulatory elements
+	Feed-forward loops/Feedback loops etc.
+GRN connections to signaling gene programs or TFs e.g. TF->E->SG->TF
+
