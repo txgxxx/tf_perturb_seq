@@ -1,0 +1,3 @@
+label	e2g_rows	e2g_unique_genes	sig_pairs	unique_degs	degs_in_e2g	pct_degs_covered	pairs_with_e2g	pct_pairs_covered	median_e2g_score
+multiome_threshold	55643	11852	69423	6404	5917	92.3954	62000	89.3076	0.373272447895252
+scATAC_threshold	103233	14357	69423	6404	5954	92.9731	62341	89.7988	0.315281248170254
