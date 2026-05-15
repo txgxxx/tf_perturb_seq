@@ -1,6 +1,0 @@
-Codex direct push test for txgxxx/tf_perturb_seq.
-
-Target folder:
-docs/jamborees/2026_UTSW/working_groups/wg4_grn_inference
-
-Date: 2026-05-15
